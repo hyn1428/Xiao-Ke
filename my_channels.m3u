@@ -1,2 +1,76 @@
-#EXTINF:-1, 中視
+#EXTINF:-1, 03.中视经典台
+http://167.88.62.43:64008/0.ts
+#EXTINF:-1, 06.民視
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1, 6.民视
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1, 06.民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1, 8.台视
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1, 8.台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1, 10.中視
 http://211.72.174.95:8113/0.ts
+#EXTINF:-1, 10.中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1, 11.公视
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1, 12.华视
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1, 12.华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1, 16.原視
+https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+#EXTINF:-1, 24.MOMO亲子台
+http://iptv.4666888.xyz/iptv2A.php?id=39
+#EXTINF:-1, 33.东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1, 47.momo購物
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1, 51.东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1, 51.东森新闻
+http://211.72.174.95:8138/0.ts
+#EXTINF:-1, 52.华视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+#EXTINF:-1, 52.中天新闻
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+#EXTINF:-1, 53.民视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+#EXTINF:-1, 53.民视新闻
+http://211.72.174.95:8117/0.ts
+#EXTINF:-1, 54.三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1, 54.LIVE三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+#EXTINF:-1, 55.TVBS新闻
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1, 55.TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1, 57.东森财经
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1, 58.非凡新闻
+http://167.88.62.43:64018/0.ts
+#EXTINF:-1, 58.非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1, 62.东森电影
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1, 71.纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1, 72.纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1, 73.DAZN-体育
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1, 74.DAZN-体育
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1, 77.纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1, 148.美食星球
+http://167.88.62.43:64017/0.ts
+#EXTINF:-1, 153.中视箐采台
+http://167.88.62.43:64009/0.ts
+#EXTINF:-1, 154.中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+#EXTINF:-1, 154.台视新闻
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
