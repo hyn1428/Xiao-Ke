@@ -1,76 +1,76 @@
-#EXTINF:-1, 03.中视经典台
+#EXTINF:-1, 03.中視經典台
 http://167.88.62.43:64008/0.ts
 #EXTINF:-1, 06.民視
 http://iptv.4666888.xyz/iptv2A.php?id=54
-#EXTINF:-1, 6.民视
+#EXTINF:-1, 6.民視
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1, 06.民視
 rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1, 08.台视
+#EXTINF:-1, 08.台視
 http://211.72.174.95:8112/0.ts
-#EXTINF:-1, 08.台视
+#EXTINF:-1, 08.台視
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1, 10.中視
 http://211.72.174.95:8113/0.ts
 #EXTINF:-1, 10.中視
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1, 11.公视
+#EXTINF:-1, 11.公視
 http://211.72.174.95:8116/0.ts
-#EXTINF:-1, 12.华视
+#EXTINF:-1, 12.華視
 http://211.72.174.95:8114/0.ts
-#EXTINF:-1, 12.华视
+#EXTINF:-1, 12.華視
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1, 16.原視
 https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
-#EXTINF:-1, 24.MOMO亲子台
+#EXTINF:-1, 24.MOMO親子台
 http://iptv.4666888.xyz/iptv2A.php?id=39
-#EXTINF:-1, 33.东森超视
+#EXTINF:-1, 33.東森超視
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1, 47.momo購物
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1, 51.东森新闻
+#EXTINF:-1, 51.東森新聞
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-#EXTINF:-1, 51.东森新闻
+#EXTINF:-1, 51.東森新聞
 http://211.72.174.95:8138/0.ts
-#EXTINF:-1, 52.华视新闻
+#EXTINF:-1, 52.華視新聞
 https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-#EXTINF:-1, 52.中天新闻
+#EXTINF:-1, 52.中天新聞
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-#EXTINF:-1, 53.民视新闻
+#EXTINF:-1, 53.民視新聞
 https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-#EXTINF:-1, 53.民视新闻
+#EXTINF:-1, 53.民視新聞
 http://211.72.174.95:8117/0.ts
-#EXTINF:-1, 54.三立新闻
+#EXTINF:-1, 54.三立新聞
 https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-#EXTINF:-1, 54.LIVE三立新闻
+#EXTINF:-1, 54.LIVE三立新聞
 https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-#EXTINF:-1, 55.TVBS新闻
+#EXTINF:-1, 55.TVBS新聞
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-#EXTINF:-1, 55.TVBS新闻
+#EXTINF:-1, 55.TVBS新聞
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1, 57.东森财经
+#EXTINF:-1, 57.東森財經
 http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1, 58.非凡新闻
+#EXTINF:-1, 58.非凡新聞
 http://167.88.62.43:64018/0.ts
-#EXTINF:-1, 58.非凡新闻
+#EXTINF:-1, 58.非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1, 62.东森电影
+#EXTINF:-1, 62.東森電影
 http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1, 71.纬来育乐
+#EXTINF:-1, 71.緯來育樂
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1, 72.纬来体育
+#EXTINF:-1, 72.緯來體育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1, 73.DAZN-体育
+#EXTINF:-1, 73.DAZN-體育
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1, 74.DAZN-体育
+#EXTINF:-1, 74.DAZN-體育
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1, 77.纬来日本
+#EXTINF:-1, 77.緯來日本
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1, 148.美食星球
 http://167.88.62.43:64017/0.ts
-#EXTINF:-1, 153.中视箐采台
+#EXTINF:-1, 153.中視箐采台
 http://167.88.62.43:64009/0.ts
-#EXTINF:-1, 154.中视新闻
+#EXTINF:-1, 154.中視新聞
 https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-#EXTINF:-1, 154.台视新闻
+#EXTINF:-1, 154.台視新聞
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
