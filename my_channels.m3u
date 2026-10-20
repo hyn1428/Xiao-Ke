@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, 03.中視經典台
 http://167.88.62.43:64008/0.ts
-#EXTINF:-1, 6.民視
+#EXTINF:-1, 06.民視
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1, 06.民視
 rtmp://f13h.mine.nu/sat/tv051
